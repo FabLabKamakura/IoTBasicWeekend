@@ -14,7 +14,7 @@ char* html = "<!DOCTYPE html>\
   <meta name='viewport' content='width=device-width'>\
 </head>\
 <body>\
-  <h1><a href='/both'>BOTH</a></h1>\
+  <h1><a href='/both'>両方つける</a></h1>\
   <h1><a href='/a'>LED_A</a></h1>\
   <h1><a href='/b'>LED_B</a></h1>\
   <h1><a href='/off'>OFF</a></h1>\

@@ -33,8 +33,8 @@ void connectWifi(){
 }
 
 void handleRoot(){
-  myservo.write(20);
-  server.send(200, "text/html", "20");
+  myservo.write(90);
+  server.send(200, "text/html", "90");
 }
 
 void turn20(){
